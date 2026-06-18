@@ -1,4 +1,4 @@
-# 20260618 Agent Memory Scoring Standard v1.0
+# Agent Memory Scoring Standard v1.0
 
 This document defines **Agent Memory Scoring Standard v1.0**, a practical weighting model for evaluating academic papers and industry projects related to agent memory.
 

@@ -1,4 +1,4 @@
-# 20260618 Agent Memory Academic Papers v1.0
+# Agent Memory Academic Papers v1.0
 
 This page curates academic papers and GitHub paper-list repositories that are strongly related to agent memory. Rankings use [Agent Memory Scoring Standard v1.0](../score/README.md).
 

@@ -1,4 +1,4 @@
-# 20260618 Awesome AI Memory v1.0
+# Awesome AI Memory v1.0
 
 A curated research index for **Agent Memory**: persistent, structured, retrievable, updateable, and governable memory systems for LLM-based agents.
 
@@ -6,10 +6,10 @@ This repository tracks academic papers, benchmarks, GitHub collections, open-sou
 
 ## Contents
 
-- [20260618 Agent Memory Scoring Standard v1.0](score/README.md)
-- [20260618 Agent Memory Academic Papers v1.0](papers/README.md)
-- [20260618 Agent Memory Projects v1.0](projects/README.md)
-- [20260618 Agent Memory Update Plan v1.0](PLAN.md)
+- [Agent Memory Scoring Standard v1.0](score/README.md)
+- [Agent Memory Academic Papers v1.0](papers/README.md)
+- [Agent Memory Projects v1.0](projects/README.md)
+- [Agent Memory Update Plan v1.0](PLAN.md)
 
 ## Classification Model
 

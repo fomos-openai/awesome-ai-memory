@@ -1,4 +1,4 @@
-# 20260618 Agent Memory Projects v1.0
+# Agent Memory Projects v1.0
 
 This page curates open-source and closed/managed projects that are strongly related to agent memory. Rankings use [Agent Memory Scoring Standard v1.0](../score/README.md).
 

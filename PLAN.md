@@ -1,4 +1,4 @@
-# 20260618 Agent Memory Update Plan v1.0
+# Agent Memory Update Plan v1.0
 
 This plan defines a repeatable update process for keeping this repository current.
 
@@ -120,14 +120,16 @@ Use these standard labels in future update notes:
 
 ## Release Versioning
 
-Use the naming pattern:
+Use the title pattern:
 
-`YYYYMMDD <document name> v<major>.<minor>`
+`<document name> v<major>.<minor>`
+
+Track review dates in body metadata, update notes, or commit messages rather than in file titles.
 
 Examples:
 
-- `20260618 Agent Memory Scoring Standard v1.0`
-- `20260618 Agent Memory Academic Papers v1.0`
-- `20260618 Agent Memory Projects v1.0`
+- `Agent Memory Scoring Standard v1.0`
+- `Agent Memory Academic Papers v1.0`
+- `Agent Memory Projects v1.0`
 
 Increment minor versions for source additions and score changes. Increment major versions when the taxonomy or scoring weights change.
